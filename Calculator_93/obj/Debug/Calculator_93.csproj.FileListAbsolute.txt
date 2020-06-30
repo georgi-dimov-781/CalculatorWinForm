@@ -1,0 +1,10 @@
+c:\users\user\source\repos\Calculator_93\Calculator_93\bin\Debug\Calculator_93.exe.config
+c:\users\user\source\repos\Calculator_93\Calculator_93\bin\Debug\Calculator_93.exe
+c:\users\user\source\repos\Calculator_93\Calculator_93\bin\Debug\Calculator_93.pdb
+c:\users\user\source\repos\Calculator_93\Calculator_93\obj\Debug\Calculator_93.Form1.resources
+c:\users\user\source\repos\Calculator_93\Calculator_93\obj\Debug\Calculator_93.Properties.Resources.resources
+c:\users\user\source\repos\Calculator_93\Calculator_93\obj\Debug\Calculator_93.csproj.GenerateResource.Cache
+c:\users\user\source\repos\Calculator_93\Calculator_93\obj\Debug\Calculator_93.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Calculator_93\Calculator_93\obj\Debug\Calculator_93.exe
+c:\users\user\source\repos\Calculator_93\Calculator_93\obj\Debug\Calculator_93.pdb
+C:\Users\user\source\repos\Calculator_93\Calculator_93\obj\Debug\Calculator_93.csprojAssemblyReference.cache
